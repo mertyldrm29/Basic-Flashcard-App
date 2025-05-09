@@ -1,0 +1,444 @@
+{
+    "flashcards": [
+        {
+            "id": "1",
+            "imageName": "apple",
+            "translations": {
+                "en": "Apple",
+                "zh-CN": "苹果",
+                "zh-HK": "蘋果"
+            },
+            "category": "Food and Drink"
+        },
+        {
+            "id": "2",
+            "imageName": "banana",
+            "translations": {
+                "en": "Banana",
+                "zh-CN": "香蕉",
+                "zh-HK": "香蕉"
+            },
+            "category": "Food and Drink"
+        },
+        {
+            "id": "3",
+            "imageName": "dog",
+            "translations": {
+                "en": "Dog",
+                "zh-CN": "狗",
+                "zh-HK": "狗"
+            },
+            "category": "Animals"
+        },
+        {
+            "id": "4",
+            "imageName": "cat",
+            "translations": {
+                "en": "Cat",
+                "zh-CN": "猫",
+                "zh-HK": "貓"
+            },
+            "category": "Animals"
+        },
+        {
+            "id": "5",
+            "imageName": "red",
+            "translations": {
+                "en": "Red",
+                "zh-CN": "红色",
+                "zh-HK": "紅色"
+            },
+            "category": "Colors"
+        },
+        {
+            "id": "6",
+            "imageName": "blue",
+            "translations": {
+                "en": "Blue",
+                "zh-CN": "蓝色",
+                "zh-HK": "藍色"
+            },
+            "category": "Colors"
+        },
+        {
+            "id": "7",
+            "imageName": "house",
+            "translations": {
+                "en": "House",
+                "zh-CN": "房子",
+                "zh-HK": "屋企"
+            },
+            "category": "Common Nouns"
+        },
+        {
+            "id": "8",
+            "imageName": "book",
+            "translations": {
+                "en": "Book",
+                "zh-CN": "书",
+                "zh-HK": "書"
+            },
+            "category": "Common Nouns"
+        },
+        {
+            "id": "9",
+            "imageName": "tree",
+            "translations": {
+                "en": "Tree",
+                "zh-CN": "树",
+                "zh-HK": "樹"
+            },
+            "category": "Common Nouns"
+        },
+        {
+            "id": "10",
+            "imageName": "sun",
+            "translations": {
+                "en": "Sun",
+                "zh-CN": "太阳",
+                "zh-HK": "太陽"
+            },
+            "category": "Common Nouns"
+        },
+        {
+            "id": "11",
+            "imageName": "moon",
+            "translations": {
+                "en": "Moon",
+                "zh-CN": "月亮",
+                "zh-HK": "月亮"
+            },
+            "category": "Common Nouns"
+        },
+        {
+            "id": "12",
+            "imageName": "star",
+            "translations": {
+                "en": "Star",
+                "zh-CN": "星星",
+                "zh-HK": "星星"
+            },
+            "category": "Common Nouns"
+        },
+        {
+            "id": "13",
+            "imageName": "boy",
+            "translations": {
+                "en": "Boy",
+                "zh-CN": "男孩",
+                "zh-HK": "男孩"
+            },
+            "category": "People"
+        },
+        {
+            "id": "14",
+            "imageName": "girl",
+            "translations": {
+                "en": "Girl",
+                "zh-CN": "女孩",
+                "zh-HK": "女孩"
+            },
+            "category": "People"
+        },
+        {
+            "id": "15",
+            "imageName": "hand",
+            "translations": {
+                "en": "Hand",
+                "zh-CN": "手",
+                "zh-HK": "手"
+            },
+            "category": "Body Parts"
+        },
+        {
+            "id": "16",
+            "imageName": "foot",
+            "translations": {
+                "en": "Foot",
+                "zh-CN": "脚",
+                "zh-HK": "腳"
+            },
+            "category": "Body Parts"
+        },
+        {
+            "id": "17",
+            "imageName": "head",
+            "translations": {
+                "en": "Head",
+                "zh-CN": "头",
+                "zh-HK": "頭"
+            },
+            "category": "Body Parts"
+        },
+        {
+            "id": "18",
+            "imageName": "orange",
+            "translations": {
+                "en": "Orange",
+                "zh-CN": "橙色",
+                "zh-HK": "橙色"
+            },
+            "category": "Colors"
+        },
+        {
+            "id": "19",
+            "imageName": "green",
+            "translations": {
+                "en": "Green",
+                "zh-CN": "绿色",
+                "zh-HK": "綠色"
+            },
+            "category": "Colors"
+        },
+        {
+            "id": "20",
+            "imageName": "yellow",
+            "translations": {
+                "en": "Yellow",
+                "zh-CN": "黄色",
+                "zh-HK": "黃色"
+            },
+            "category": "Colors"
+        },
+        {
+            "id": "21",
+            "imageName": "car",
+            "translations": {
+                "en": "Car",
+                "zh-CN": "汽车",
+                "zh-HK": "汽車"
+            },
+            "category": "Transportation"
+        },
+        {
+            "id": "22",
+            "imageName": "bike",
+            "translations": {
+                "en": "Bike",
+                "zh-CN": "自行车",
+                "zh-HK": "單車"
+            },
+            "category": "Transportation"
+        },
+        {
+            "id": "23",
+            "imageName": "train",
+            "translations": {
+                "en": "Train",
+                "zh-CN": "火车",
+                "zh-HK": "火車"
+            },
+            "category": "Transportation"
+        },
+        {
+            "id": "24",
+            "imageName": "run",
+            "translations": {
+                "en": "Run",
+                "zh-CN": "跑",
+                "zh-HK": "跑"
+            },
+            "category": "Actions"
+        },
+        {
+            "id": "25",
+            "imageName": "jump",
+            "translations": {
+                "en": "Jump",
+                "zh-CN": "跳",
+                "zh-HK": "跳"
+            },
+            "category": "Actions"
+        },
+        {
+            "id": "26",
+            "imageName": "walk",
+            "translations": {
+                "en": "Walk",
+                "zh-CN": "走",
+                "zh-HK": "行"
+            },
+            "category": "Actions"
+        },
+        {
+            "id": "27",
+            "imageName": "big",
+            "translations": {
+                "en": "Big",
+                "zh-CN": "大",
+                "zh-HK": "大"
+            },
+            "category": "Descriptive Words"
+        },
+        {
+            "id": "28",
+            "imageName": "small",
+            "translations": {
+                "en": "Small",
+                "zh-CN": "小",
+                "zh-HK": "小"
+            },
+            "category": "Descriptive Words"
+        },
+        {
+            "id": "29",
+            "imageName": "fast",
+            "translations": {
+                "en": "Fast",
+                "zh-CN": "快",
+                "zh-HK": "快"
+            },
+            "category": "Descriptive Words"
+        },
+        {
+            "id": "30",
+            "imageName": "slow",
+            "translations": {
+                "en": "Slow",
+                "zh-CN": "慢",
+                "zh-HK": "慢"
+            },
+            "category": "Descriptive Words"
+        },
+        {
+            "id": "31",
+            "imageName": "shirt",
+            "translations": {
+                "en": "Shirt",
+                "zh-CN": "衬衫",
+                "zh-HK": "衫"
+            },
+            "category": "Clothing"
+        },
+        {
+            "id": "32",
+            "imageName": "pants",
+            "translations": {
+                "en": "Pants",
+                "zh-CN": "裤子",
+                "zh-HK": "褲"
+            },
+            "category": "Clothing"
+        },
+        {
+            "id": "33",
+            "imageName": "ball",
+            "translations": {
+                "en": "Ball",
+                "zh-CN": "球",
+                "zh-HK": "波"
+            },
+            "category": "Toys and Play"
+        },
+        {
+            "id": "34",
+            "imageName": "doll",
+            "translations": {
+                "en": "Doll",
+                "zh-CN": "娃娃",
+                "zh-HK": "公仔"
+            },
+            "category": "Toys and Play"
+        },
+        {
+            "id": "35",
+            "imageName": "one",
+            "translations": {
+                "en": "One",
+                "zh-CN": "一",
+                "zh-HK": "一"
+            },
+            "category": "Numbers"
+        },
+        {
+            "id": "36",
+            "imageName": "two",
+            "translations": {
+                "en": "Two",
+                "zh-CN": "二",
+                "zh-HK": "二"
+            },
+            "category": "Numbers"
+        },
+        {
+            "id": "37",
+            "imageName": "circle",
+            "translations": {
+                "en": "Circle",
+                "zh-CN": "圆形",
+                "zh-HK": "圓形"
+            },
+            "category": "Shapes"
+        },
+        {
+            "id": "38",
+            "imageName": "square",
+            "translations": {
+                "en": "Square",
+                "zh-CN": "方形",
+                "zh-HK": "方形"
+            },
+            "category": "Shapes"
+        },
+        {
+            "id": "39",
+            "imageName": "in",
+            "translations": {
+                "en": "In",
+                "zh-CN": "在...里面",
+                "zh-HK": "喺...入面"
+            },
+            "category": "Prepositions"
+        },
+        {
+            "id": "40",
+            "imageName": "on",
+            "translations": {
+                "en": "On",
+                "zh-CN": "在...上面",
+                "zh-HK": "喺...上面"
+            },
+            "category": "Prepositions"
+        },
+        {
+            "id": "41",
+            "imageName": "i",
+            "translations": {
+                "en": "I",
+                "zh-CN": "我",
+                "zh-HK": "我"
+            },
+            "category": "Pronouns"
+        },
+        {
+            "id": "42",
+            "imageName": "you",
+            "translations": {
+                "en": "You",
+                "zh-CN": "你",
+                "zh-HK": "你"
+            },
+            "category": "Pronouns"
+        },
+        {
+            "id": "43",
+            "imageName": "what",
+            "translations": {
+                "en": "What",
+                "zh-CN": "什么",
+                "zh-HK": "咩"
+            },
+            "category": "Question Words"
+        },
+        {
+            "id": "44",
+            "imageName": "where",
+            "translations": {
+                "en": "Where",
+                "zh-CN": "哪里",
+                "zh-HK": "邊度"
+            },
+            "category": "Question Words"
+        }
+    ]
+} 
